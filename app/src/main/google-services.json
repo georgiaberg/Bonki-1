@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "970402231993",
+    "firebase_url": "https://bonki-2f067.firebaseio.com",
+    "project_id": "bonki-2f067",
+    "storage_bucket": "bonki-2f067.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970402231993:android:6ff91684abafa14a0a0d68",
+        "android_client_info": {
+          "package_name": "com.example.bonki"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970402231993-hinvcg0n3q9qirnbp3v2u6udmjrmhkfe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlE7GNaoyZom_7mJQ-E6Qij436VX6ClgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970402231993-hinvcg0n3q9qirnbp3v2u6udmjrmhkfe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
